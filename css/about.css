@@ -1,0 +1,27 @@
+#bio{
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+#bio p{
+	margin-bottom: 10px;
+}
+
+#img_wrapper{
+	display: block;
+	padding: 0;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	float: left;
+	overflow: hidden;
+
+}
+#pic{
+	margin-left: -125px;
+
+}
+#wrapper{
+	min-height: 100%;
+}
+

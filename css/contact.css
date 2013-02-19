@@ -1,0 +1,11 @@
+
+#contact-info{
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+#contact-info li{
+	font-family: helvetica, sans-serif;	
+	font-size: large;
+	margin: 5px 0;
+}

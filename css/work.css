@@ -1,0 +1,15 @@
+
+#content{
+	margin: 0 auto;
+	width: 90%;
+}
+.project{
+	margin-left: 1%;
+	margin-bottom: 15px;
+}
+
+#content h1, dt{
+	font-family: Helvetica, sans-serif;
+}
+
+

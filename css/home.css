@@ -1,0 +1,23 @@
+#posts{
+	display: block;
+	width: 90%;
+	margin: 0 auto;	
+}
+.post img{
+	float:left;
+	margin-top: 5px;
+	margin-right: 1em;
+
+}
+.post h1{
+	margin-bottom: 10px;
+	font-family: Helvetica, sans-serif;
+}
+.post{
+	display: block;
+	margin-bottom: 20px;
+}
+.post p{
+	margin-bottom: 10px;
+}
+
